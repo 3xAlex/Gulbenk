@@ -79,7 +79,7 @@ const Test = () => {
               <motion.div
                 variants={fadeIn("left","spring", 1, 0.5)}
               className="sm:w-[250px] flex pt-3 items-center">
-                <img src="Visco.png" className="w-full h-full"/>
+                <img src="visco.png" className="w-full h-full"/>
               </motion.div>
             </SwiperSlide>
             <SwiperSlide>
